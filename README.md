@@ -12,11 +12,11 @@ The dashboard covers team performance, player statistics, stadium insights, seas
 
 The objective of this project is to analyze **17 years of IPL data** and deliver a visually interactive dashboard that helps users explore:
 
-* Season-wise insights
+* Season-wise patterns and trends
 * Team and player performance
 * Points table analytics
-* Stadium locations and match distribution
-* Predictive analysis using a machine learning model
+* Stadium-level insights
+* Win probability predictions using a machine-learning model
 
 This project demonstrates skills in **data cleaning, modeling, visualization, DAX measures, predictive analytics**, and storytelling through dashboards.
 
@@ -28,7 +28,7 @@ This project demonstrates skills in **data cleaning, modeling, visualization, DA
 
 * Select any IPL season (2008–2025)
 * Displays:
-  ✔ Champion & Runner-Up
+  ✔ Season Champion & Runner-Up
   ✔ Total Matches
   ✔ Total Sixes, Fours, Centuries & Half-Centuries
   ✔ Orange Cap & Purple Cap details
@@ -50,8 +50,8 @@ This project demonstrates skills in **data cleaning, modeling, visualization, DA
 
 ### **3. Player Performance (2008–2025)**
 
-* Highest Runs
-* Highest Wickets
+* Highest Run Scorer(Orange Cap)
+* Highest Wickets taken(Purplr Cap)
 * Highest Sixes
 * Highest Fours
 * Top players like:
@@ -66,7 +66,7 @@ This project demonstrates skills in **data cleaning, modeling, visualization, DA
 
 ### **4. Stadium Insights**
 
-* Stadium locations across India & overseas
+* Coverage of all major Indian and overseas stadiums
 * Interactive map view (Bing Map Integration)
 * Includes major stadiums like:
 
@@ -97,7 +97,7 @@ This project demonstrates skills in **data cleaning, modeling, visualization, DA
 * Trained using match features such as:
 
   * Team strength
-  * Toss result
+  * Toss outcome
   * Venue
   * Winning probability calculations
 * Added as a separate page inside Power BI
