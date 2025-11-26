@@ -82,12 +82,11 @@ This project demonstrates skills in **data cleaning, modeling, visualization, DA
 
 * View player role distribution for 10 IPL teams
 * Categories: Batter, Bowler, All-Rounder, Wicketkeeper
-* Includes example players:
-
-  * shubman gill (Batter)
-  * Deepak Hooda (All-Rounder)
-  * Devon Conway (Batter)
-  * trent boult (Bowler)
+* Includes players like:
+  * Shubman Gill (Batter)
+  * Tim David (All-Rounder)
+  * Ishan Kishan (Batter)
+  * Trent Boult (Bowler)
 
 ---
 
