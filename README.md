@@ -1,5 +1,5 @@
 
-# 🏏 IPL (2008–2025) Data Analytics Dashboard
+# 🏏 IPL (2008–2025) Data Analysis Dashboard
 
 ### 📊 A Power BI End-to-End Data Analysis Project
 
