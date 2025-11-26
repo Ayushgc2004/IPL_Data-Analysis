@@ -123,14 +123,5 @@ This project demonstrates skills in **data cleaning, modeling, visualization, DA
 * Integrating ML predictions inside Power BI
 * Presenting a full data analytics project end-to-end
 
----
-
-## 📬 Contact
-
-If you find this project helpful, feel free to ⭐ the repo!
-For collaboration or queries:
-**Aryan Bataviya**
-📧 *aryanbataviya25@gmail.com*
-🔗 *https://www.linkedin.com/in/aryan2511/*
 
 
