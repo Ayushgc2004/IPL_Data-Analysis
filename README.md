@@ -85,7 +85,7 @@ This project demonstrates skills in **data cleaning, modeling, visualization, DA
 * Includes players like:
   * Shubman Gill (Batter)
   * Tim David (All-Rounder)
-  * Ishan Kishan (Batter)
+  * Ishan Kishan (Wicketkeeper)
   * Trent Boult (Bowler)
 
 ---
