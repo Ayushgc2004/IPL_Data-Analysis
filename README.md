@@ -41,8 +41,8 @@ This project demonstrates skills in **data cleaning, modeling, visualization, DA
 * Interactive table showing:
 
   * Matches Played
-  * Won, Lost, Tied, No Result
-  * Match Points
+  * Won, Lost, Tied, No Result by each team
+  * Match Points 
 * Compares all teams for the selected season
 * Helps identify top-performing and bottom teams
 
