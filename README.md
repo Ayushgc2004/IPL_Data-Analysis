@@ -51,7 +51,7 @@ This project demonstrates skills in **data cleaning, modeling, visualization, DA
 ### **3. Player Performance (2008–2025)**
 
 * Highest Run Scorer(Orange Cap)
-* Highest Wickets taken(Purplr Cap)
+* Highest Wickets taken(Purple Cap)
 * Highest Sixes
 * Highest Fours
 * Top players like:
@@ -70,11 +70,12 @@ This project demonstrates skills in **data cleaning, modeling, visualization, DA
 * Interactive map view (Bing Map Integration)
 * Includes major stadiums like:
 
-  * Eden Gardens
-  * Wankhede Stadium
-  * M. Chinnaswamy
-  * DY Patil
-  * Dubai International Stadium
+  * Eden Gardens,Kolkata
+  * Wankhede Stadium, Mumbai
+  * M. Chinnaswamy, Bengaluru
+  * DY Patil,Mumbai
+  * Arun Jaitley Stadium,New Delhi
+  * Dubai International Stadium,Dubai
 
 ---
 
