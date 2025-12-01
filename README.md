@@ -18,7 +18,7 @@ The objective of this project is to analyze **17 years of IPL data** and deliver
 * Stadium-level insights
 * Win probability predictions using a machine-learning model
 
-This project demonstrates skills in **data cleaning, modeling, visualization, DAX measures, predictive analytics**, and storytelling through dashboards.
+This project demonstrates skills in **data cleaning, modeling, visualization, DAX measures, predictive analytics** through dashboards.
 
 ---
 
